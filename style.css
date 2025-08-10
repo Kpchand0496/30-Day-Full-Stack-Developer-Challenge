@@ -1,0 +1,52 @@
+/* Change page background and font */
+body {
+    background-color: #fff8f8;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 20px;
+}
+
+/* Style the main heading */
+h1 {
+    color: #0066cc;
+    text-align: center;
+}
+
+/* Style paragraphs */
+p {
+    font-size: 18px;
+    font-style: italic;
+    line-height: 1.5;
+}
+
+/* Add spacing for sections */
+section {
+    margin-bottom: 20px;
+}
+
+nav {
+    background-color: #000000;
+    padding: 10px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff8f8;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+img {
+    display: block;
+    margin: 20px auto;
+    border-radius: 50%;
+    border: 3px solid #0077cc;
+}
